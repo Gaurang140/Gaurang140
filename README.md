@@ -33,22 +33,22 @@
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/c17hawke/" target="_blank"><br>@c17hawke!</a> on Instagram</p>
 
 <hr> -->
+#### You can also find me on:
 
-#### You can also find me on: 
-
-[<img align="left" alt="Gaurang140 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Gaurang140 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="Gaurang140 | Kaggle" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][kaggle]
-
-                                                                                                                                                                       
+<p>
+  <a href="https://www.linkedin.com/in/gauranggiri-meghanathi-422804216/" target="_blank">
+    <img align="left" alt="Gaurang140 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
+  <a href="https://www.instagram.com/g_a_u_r_a_n_g1404/" target="_blank">
+    <img align="left" alt="Gaurang140 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  </a>
+  <a href="https://www.kaggle.com/meghanathi1404" target="_blank">
+    <img align="left" alt="Gaurang140 | Kaggle" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
+  </a>
+</p>
 
 <br>
-
 <hr>
-
-[linkedin]: [https://www.linkedin.com/in/gauranggiri-meghanathi-422804216/]
-[Instagram]: [https://www.instagram.com/g_a_u_r_a_n_g1404/]
-[kaggle]:[https://www.kaggle.com/meghanathi1404]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaurang140&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurang140" /> </p>
 
