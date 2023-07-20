@@ -25,6 +25,7 @@
 ### My Hobbies and interests:
 * Cooking
 * Traveling
+* Music
 * Coding
 
 
